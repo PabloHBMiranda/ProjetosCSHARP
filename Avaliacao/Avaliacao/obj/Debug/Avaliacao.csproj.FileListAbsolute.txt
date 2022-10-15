@@ -1,0 +1,11 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\bin\Debug\Avaliacao.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\bin\Debug\Avaliacao.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\bin\Debug\Avaliacao.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.Form1.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Avaliacao\Avaliacao\obj\Debug\Avaliacao.pdb

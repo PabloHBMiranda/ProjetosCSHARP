@@ -1,0 +1,13 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\bin\Debug\Projeto22092022.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\bin\Debug\Projeto22092022.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\bin\Debug\Projeto22092022.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.Form1.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.Cadastro.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Projeto22092022\Projeto22092022\obj\Debug\Projeto22092022.Listagem.resources

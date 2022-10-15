@@ -1,0 +1,11 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\bin\Debug\Exercicio001Forms.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\bin\Debug\Exercicio001Forms.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\bin\Debug\Exercicio001Forms.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.FrmPrincipal.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio001Forms\Exercicio001Forms\obj\Debug\Exercicio001Forms.pdb

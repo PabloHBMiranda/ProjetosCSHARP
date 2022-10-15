@@ -1,0 +1,11 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\bin\Debug\Star Wars.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\bin\Debug\Star Wars.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\bin\Debug\Star Wars.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star_Wars.Form1.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star_Wars.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Star Wars\Star Wars\obj\Debug\Star Wars.pdb

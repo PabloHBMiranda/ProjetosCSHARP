@@ -1,0 +1,11 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.x.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb

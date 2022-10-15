@@ -1,0 +1,14 @@
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\bin\Debug\Ingresso.exe.config
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\bin\Debug\Ingresso.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\bin\Debug\Ingresso.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.csproj.AssemblyReference.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.Properties.Resources.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.csproj.GenerateResource.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.exe
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.pdb
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.CriarConta.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.Form1.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.Login.resources
+C:\Users\pablo\Dropbox\PC\Documents\Visual Studio 2022\CSHARP\Ingresso\Ingresso\obj\Debug\Ingresso.ComprarIngresso.resources
