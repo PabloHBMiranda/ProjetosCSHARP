@@ -107,5 +107,50 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeira_branca2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeira_verde_ok1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corra1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ingresso1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\queen1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transformes2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vingadores1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeira_azul1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeira_branca3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeira_verde_ok2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corra2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ingresso2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\queen2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transformes3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vingadores2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

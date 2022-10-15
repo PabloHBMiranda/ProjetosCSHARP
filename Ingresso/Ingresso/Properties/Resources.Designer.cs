@@ -73,6 +73,16 @@ namespace Ingresso.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cadeira_azul1 {
+            get {
+                object obj = ResourceManager.GetObject("cadeira_azul1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cadeira_branca {
             get {
                 object obj = ResourceManager.GetObject("cadeira_branca", resourceCulture);
@@ -86,6 +96,26 @@ namespace Ingresso.Properties {
         internal static System.Drawing.Bitmap cadeira_branca1 {
             get {
                 object obj = ResourceManager.GetObject("cadeira_branca1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cadeira_branca2 {
+            get {
+                object obj = ResourceManager.GetObject("cadeira_branca2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cadeira_branca3 {
+            get {
+                object obj = ResourceManager.GetObject("cadeira_branca3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +143,26 @@ namespace Ingresso.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cadeira_verde_ok1 {
+            get {
+                object obj = ResourceManager.GetObject("cadeira_verde_ok1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cadeira_verde_ok2 {
+            get {
+                object obj = ResourceManager.GetObject("cadeira_verde_ok2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cadeira_verde1 {
             get {
                 object obj = ResourceManager.GetObject("cadeira_verde1", resourceCulture);
@@ -126,6 +176,26 @@ namespace Ingresso.Properties {
         internal static System.Drawing.Bitmap corra {
             get {
                 object obj = ResourceManager.GetObject("corra", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap corra1 {
+            get {
+                object obj = ResourceManager.GetObject("corra1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap corra2 {
+            get {
+                object obj = ResourceManager.GetObject("corra2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +223,49 @@ namespace Ingresso.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ingresso2 {
+            get {
+                object obj = ResourceManager.GetObject("ingresso2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ingresso3 {
+            get {
+                object obj = ResourceManager.GetObject("ingresso3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap queen {
             get {
                 object obj = ResourceManager.GetObject("queen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap queen1 {
+            get {
+                object obj = ResourceManager.GetObject("queen1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap queen2 {
+            get {
+                object obj = ResourceManager.GetObject("queen2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +293,49 @@ namespace Ingresso.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap transformes2 {
+            get {
+                object obj = ResourceManager.GetObject("transformes2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap transformes3 {
+            get {
+                object obj = ResourceManager.GetObject("transformes3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap vingadores {
             get {
                 object obj = ResourceManager.GetObject("vingadores", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vingadores1 {
+            get {
+                object obj = ResourceManager.GetObject("vingadores1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vingadores2 {
+            get {
+                object obj = ResourceManager.GetObject("vingadores2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -325,7 +325,7 @@
             // 
             // cd1
             // 
-            this.cd1.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+
             this.cd1.Location = new System.Drawing.Point(108, 112);
             this.cd1.Name = "cd1";
             this.cd1.Size = new System.Drawing.Size(57, 46);
@@ -335,7 +335,6 @@
             // 
             // cd2
             // 
-            this.cd2.Image = global::Ingresso.Properties.Resources.cadeira_branca;
             this.cd2.Location = new System.Drawing.Point(171, 112);
             this.cd2.Name = "cd2";
             this.cd2.Size = new System.Drawing.Size(57, 46);
@@ -345,7 +344,6 @@
             // 
             // cd8
             // 
-            this.cd8.Image = global::Ingresso.Properties.Resources.cadeira_branca;
             this.cd8.Location = new System.Drawing.Point(171, 216);
             this.cd8.Name = "cd8";
             this.cd8.Size = new System.Drawing.Size(57, 46);
@@ -355,7 +353,7 @@
             // 
             // cd3
             // 
-            this.cd3.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+  
             this.cd3.Location = new System.Drawing.Point(45, 164);
             this.cd3.Name = "cd3";
             this.cd3.Size = new System.Drawing.Size(57, 46);
@@ -365,7 +363,7 @@
             // 
             // cd7
             // 
-            this.cd7.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+     
             this.cd7.Location = new System.Drawing.Point(108, 216);
             this.cd7.Name = "cd7";
             this.cd7.Size = new System.Drawing.Size(57, 46);
@@ -375,7 +373,7 @@
             // 
             // cd4
             // 
-            this.cd4.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+   
             this.cd4.Location = new System.Drawing.Point(108, 164);
             this.cd4.Name = "cd4";
             this.cd4.Size = new System.Drawing.Size(57, 46);
@@ -385,7 +383,7 @@
             // 
             // cd6
             // 
-            this.cd6.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+           
             this.cd6.Location = new System.Drawing.Point(45, 216);
             this.cd6.Name = "cd6";
             this.cd6.Size = new System.Drawing.Size(57, 46);
@@ -395,7 +393,7 @@
             // 
             // cd5
             // 
-            this.cd5.Image = global::Ingresso.Properties.Resources.cadeira_branca;
+ 
             this.cd5.Location = new System.Drawing.Point(171, 164);
             this.cd5.Name = "cd5";
             this.cd5.Size = new System.Drawing.Size(57, 46);
